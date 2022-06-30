@@ -1,0 +1,20 @@
+:root {
+
+  /* Color */
+  --primary-color: #f6f6f6;
+  --paragraf-color: #ececec;
+  --sidebar-color: hsl(0, 0%, 13%);
+  --box-color: #222222;
+  --background-color: #121212;
+  --text-muted: #f0f0f0;
+
+  /* Padding */
+  --section-padding: 3.125rem;
+
+  /* Border Radius */
+  --border-radius: .625rem;
+
+  /* Box Shadow */
+  --box-shadow: 4px 8px 16px #242323, 4px 8px 16px rgb(19, 17, 17);
+
+}
